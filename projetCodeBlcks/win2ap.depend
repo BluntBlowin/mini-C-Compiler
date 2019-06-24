@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1528211410 source:c:\users\blunt_blowin\desktop\win2ap\main.cpp
+	"f.h"
+
+1528212109 source:c:\users\blunt_blowin\desktop\win2ap\f.cpp
+	"f.h"
+
+1528212163 c:\users\blunt_blowin\desktop\win2ap\f.h
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<cstring>
+	<iostream>
+	<stack>
+	<queue>
+	<malloc.h>
+
+1528244377 source:c:\users\blunt_blowin\desktop\projet final en code blocks\f.cpp
+	"f.h"
+
+1528245039 c:\users\blunt_blowin\desktop\projet final en code blocks\f.h
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<cstring>
+	<iostream>
+	<stack>
+	<malloc.h>
+
+1528240270 source:c:\users\blunt_blowin\desktop\projet final en code blocks\main.cpp
+	"f.h"
+
+1528240270 source:c:\users\blunt_blowin\desktop\rapport de compilation\projet final en code blocks\main.cpp
+	"f.h"
+
+1528245039 c:\users\blunt_blowin\desktop\rapport de compilation\projet final en code blocks\f.h
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<cstring>
+	<iostream>
+	<stack>
+	<malloc.h>
+
+1528249988 source:c:\users\blunt_blowin\desktop\rapport de compilation\projet final en code blocks\f.cpp
+	"f.h"
+

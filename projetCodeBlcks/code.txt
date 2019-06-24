@@ -1,0 +1,4 @@
+fmain ( ) 
+{
+ecrire ( '* kjhkh kjhkj *' ) ;
+}
